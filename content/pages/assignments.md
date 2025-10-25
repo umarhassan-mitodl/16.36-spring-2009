@@ -46,7 +46,7 @@ Problem set 2 ({{% resource_link b772f54a-4ee1-9461-75f7-240e72136f41 "PDF" %}})
 
 clip.wav ({{% resource_link 115556d6-77e1-c794-5509-f80fb12995a3 "WAV" %}})
 
-From "Candles & Purple Leaves." Courtesy of {{% resource_link "91fc1a03-dda9-43f7-843a-834b889c8831" "PeerGynt Lobogris" %}} on Jamendo.
+From "Candles & Purple Leaves." Courtesy of [PeerGynt Lobogris](http://www.jamendo.com/en/track/395904) on Jamendo.
 
 
 {{< tdclose >}}
